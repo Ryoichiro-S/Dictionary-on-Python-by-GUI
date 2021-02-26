@@ -1,0 +1,8 @@
+＃エクセル例
+英語	日本語	分類
+supply	供給する	英単語
+information	情報	工学
+wifi	ワイファイ	工学
+PC	パソコン	工学
+happy	楽しい	英単語
+tsunami	津波	日本語
